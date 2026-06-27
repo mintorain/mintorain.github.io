@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mintorain.github.io/medispark-landing/sitemap.xml
+Sitemap: https://mintorain.github.io/sitemap.xml
