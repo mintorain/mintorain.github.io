@@ -1,0 +1,7 @@
+# Mock & Temp Files
+mock_leads.csv
+pdf_text.txt
+tmp/
+hero_render.zip
+__pycache__/
+.venv/
